@@ -38,3 +38,7 @@ img.recipe-meal-image {
     display: block;
     border: solid white 0.5em;
 }
+
+p.credits {
+    text-align: center;
+}
