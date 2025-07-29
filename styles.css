@@ -8,3 +8,18 @@ h1, h2, h3, h4, h5, h6 {
     color: #17313E;
     text-align: center;
 }
+
+ul.recipes-container,
+ol.recipes-container {
+    margin: 0 auto;
+    padding: 0;
+    width: 80vw;
+    list-style-type: none;
+}
+
+li.recipe-element {
+    margin: 0;
+    height: 5em;
+    padding: 1vw;
+    background-color: #C5B0CD;
+}
