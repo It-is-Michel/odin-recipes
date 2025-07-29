@@ -12,13 +12,14 @@ h1, h2, h3, h4, h5, h6 {
 ul.recipes-container,
 ol.recipes-container {
     margin: 0 auto;
-    padding: 0;
+    padding: 0.1em;
     width: 80vw;
     list-style-type: none;
+    background-color: #415E72;
 }
 
 li.recipe-element {
-    margin: 0;
+    margin: 1em;
     height: 5em;
     padding: 1vw;
     background-color: #C5B0CD;
