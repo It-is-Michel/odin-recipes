@@ -30,3 +30,11 @@ img.recipe-element-image {
     height: 5em;
     margin-right: 1em;
 }
+
+img.recipe-meal-image {
+    width: auto;
+    height: 400px;
+    margin: 0 auto;
+    display: block;
+    border: solid white 0.5em;
+}
