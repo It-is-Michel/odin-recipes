@@ -23,3 +23,8 @@ li.recipe-element {
     padding: 1vw;
     background-color: #C5B0CD;
 }
+
+img.recipe-element-image {
+    height: 5em;
+    margin-right: 1em;
+}
